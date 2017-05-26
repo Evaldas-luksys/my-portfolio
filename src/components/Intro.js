@@ -11,7 +11,7 @@ class Intro extends React.Component {
                     <h1 className="section-title">
                         <span className="me">Evaldas Luksys</span>
                         <span className="intro-skills">
-                            <p>I am full stack Web Developer</p>
+                            <p>I am a full stack Web Developer</p>
                         </span>
                     </h1>
                    
